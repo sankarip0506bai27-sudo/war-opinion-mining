@@ -8,7 +8,7 @@ A full-stack AI-powered web application that analyzes public opinion on war-rela
 
 | Name | Role |
 |------|------|
-| Sankari P | Team Lead & Developer |
+| Sankari P |   Developer |
 | Harsitha Sree K | Developer |
 | Vaishnavi | Developer |
 
